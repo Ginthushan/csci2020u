@@ -1,0 +1,13 @@
+# Binaries
+*.class
+*.jar
+build/
+.gradle/
+
+# Gradle Wrapper
+gradle/
+gradlew
+gradlew.bat
+
+# Data
+*.csv
